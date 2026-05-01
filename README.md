@@ -59,10 +59,6 @@ boot → kernel → drivers → vfs → scheduler → libc → userspace
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alunwrd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=c084fc&icon_color=c084fc&text_color=a9b1d6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alunwrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=c084fc&text_color=a9b1d6)
-
 ![Streak](https://streak-stats.demolab.com?user=alunwrd&theme=tokyonight&hide_border=true&background=0d0d14&stroke=c084fc&ring=c084fc&fire=ff79c6&currStreakLabel=c084fc)
 
 </div>
